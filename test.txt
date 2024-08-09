@@ -1,2 +1,5 @@
 Hi my name is Avi
+How are you?
+i have heard that the git Sessions were amazing!
+
 
